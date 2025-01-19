@@ -1,0 +1,17 @@
+{
+    "hello": [
+        "Hi there!",
+        "Hello! How can I assist you today?",
+        "Hey! How's it going?"
+    ],
+    "how are you": [
+        "I'm just a bot, but I'm doing well, thank you!",
+        "I'm functioning as expected!",
+        "I'm good, how about you?"
+    ],
+    "bye": [
+        "Goodbye! Have a great day!",
+        "See you later!",
+        "Bye! Take care!"
+    ]
+}
